@@ -28,6 +28,7 @@ group :test do
   gem 'terminal-notifier'
   gem 'guard-spork'
   gem 'spork', '0.9.0'
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 group :production do
